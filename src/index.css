@@ -1,0 +1,8 @@
+@import "@picocss/pico/css/pico";
+
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1500px;
+    }
+}
+    
